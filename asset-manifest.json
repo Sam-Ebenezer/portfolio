@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b7d4e56b.css",
+    "main.js": "/portfolio/static/js/main.abeed6a3.js",
+    "static/js/787.0adc0c45.chunk.js": "/portfolio/static/js/787.0adc0c45.chunk.js",
+    "static/media/bg_image.gif": "/portfolio/static/media/bg_image.3aa602bdc8fffb983e61.gif",
+    "static/media/Website_Home_Page.PNG": "/portfolio/static/media/Website_Home_Page.01f08f9cde3a0352e46d.PNG",
+    "static/media/FlexiFit.png": "/portfolio/static/media/FlexiFit.06e9e3835fc6e77c8128.png",
+    "static/media/bg_image.PNG": "/portfolio/static/media/bg_image.7049e164182292cc375f.PNG",
+    "static/media/Client_Table_Axios.PNG": "/portfolio/static/media/Client_Table_Axios.c78b680812be87a0341b.PNG",
+    "static/media/Train_Animation.PNG": "/portfolio/static/media/Train_Animation.ce31b444527518b8a947.PNG",
+    "static/media/School_Management_System.png": "/portfolio/static/media/School_Management_System.bbdad3d8245433dcd6fa.png",
+    "static/media/Demo_Website.PNG": "/portfolio/static/media/Demo_Website.ac56782b55a3e14742fb.PNG",
+    "static/media/Login_Form.PNG": "/portfolio/static/media/Login_Form.bff606ee9dbadf956fbd.PNG",
+    "static/media/Color_Picker.PNG": "/portfolio/static/media/Color_Picker.6ce88fd9b5b793e65626.PNG",
+    "static/media/BS_Registration_Form.PNG": "/portfolio/static/media/BS_Registration_Form.406c2c9897a3587c46b8.PNG",
+    "static/media/Instagram.PNG": "/portfolio/static/media/Instagram.6030a8815dc4d150b086.PNG",
+    "static/media/Portfolio_Icon.PNG": "/portfolio/static/media/Portfolio_Icon.5d8d0d152e72c18f8846.PNG",
+    "static/media/Github.PNG": "/portfolio/static/media/Github.ae13f1f483970078d466.PNG",
+    "static/media/Age_Calculator.PNG": "/portfolio/static/media/Age_Calculator.1a3ad54e10913e64f404.PNG",
+    "static/media/Word_Counter.PNG": "/portfolio/static/media/Word_Counter.287ea48f5d0264a8f947.PNG",
+    "static/media/Contact_Me.PNG": "/portfolio/static/media/Contact_Me.841e85ae12708d884a2f.PNG",
+    "static/media/Registration_Form.PNG": "/portfolio/static/media/Registration_Form.e44ab0a189d3e8011a49.PNG",
+    "static/media/Linkedin.PNG": "/portfolio/static/media/Linkedin.cc1494dd9c448b2f3ddd.PNG",
+    "static/media/Calculator.PNG": "/portfolio/static/media/Calculator.a5fc5eaac74f93bc37e8.PNG",
+    "static/media/Facebook.PNG": "/portfolio/static/media/Facebook.62d417102cb513748277.PNG",
+    "static/media/Gmail.PNG": "/portfolio/static/media/Gmail.68545469c352f47ab5fe.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.b7d4e56b.css.map": "/portfolio/static/css/main.b7d4e56b.css.map",
+    "main.abeed6a3.js.map": "/portfolio/static/js/main.abeed6a3.js.map",
+    "787.0adc0c45.chunk.js.map": "/portfolio/static/js/787.0adc0c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d4e56b.css",
+    "static/js/main.abeed6a3.js"
+  ]
+}
